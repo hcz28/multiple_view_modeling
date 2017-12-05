@@ -1,0 +1,2 @@
+# multiple_view_modeling
+This is a project on photometric stereo reconstruction. An object is observed by a fixed camera under different illumination. So we have a dense set of images to start with. The challenge is to infer a 2.5D surface description of the object (that is, a depth model), despite that the captured data are severely contaminated by shadows, highlights, transparency and that the light calibration is inaccurate.
